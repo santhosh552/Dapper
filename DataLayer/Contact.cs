@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 namespace DataLayer
 {
+    //Contact class - master commit
     public class Contact
     {
         public int Id { get; set; }
