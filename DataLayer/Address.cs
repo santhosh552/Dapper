@@ -1,5 +1,6 @@
 ﻿namespace DataLayer
 {
+    //Address Class
     public class Address
     {
         public int Id { get; set; }
